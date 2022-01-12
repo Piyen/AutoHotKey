@@ -21,5 +21,27 @@ Send, +{Enter}
 Send, ノ::::::::::::::::::::::::ゝ
 Send, +{Enter}
 Send, {space}{space}{space}{space}{space}{space}{space}{space}{space}{space}|{space}{space}{space}|{space}{space}{space}{space}|{space}{space}{space}|
+Send, +{Enter}
+Send, +{Enter}
+Send, +{Enter}
+Send, +{Enter}
+Send, +{Enter}
+Send, {space}{space}{space}{space}{space}{space}{space}{space}{space}{space}{space}{space}{space}{space}{space}{space}{space}{space}{space}{space}{space}{space}{space}{space}{space}{space}Λ{space}_{space}Λ
+Send, +{Enter}
+Send, {space}{space}{space}{space}{space}{space}{space}{space}{space}{space}{space}{space}{space}{space}_____(’{space}{space}⦁{space}ω{space}⦁{space}`)____
+Send, +{Enter}
+Send, 〔ﾉニニ,______{space}{space}{space}{space}{space}{space}{space}{space}{space}{space}{space}{space}{space}{space}{space}{space}{space}{space}{space}____,ニニ乁〕
+Send, +{Enter}
+Send, {space}{space}{space}{space}|::::::::::::::::::::::ヽ{space}{space}°{space}{space}{space}{space}°{space}{space}/::::::::::::::::::::::/
+Send, +{Enter}
+Send, {space}{space}{space}{space}{space}〉:::::::::::::::::::::〉{space}____{space}〈::::::::::::::::::::〈
+Send, +{Enter}
+Send, {space}{space}{space}{space}|:::::::::::::::::::::／{space}{space}{space}にア弌弌弌弌弌弌弌弌弌弌弌ニつ
+Send, +{Enter}
+Send, {space}{space}{space}〔::::::::::::::::::/{space}{space}{space}{space}ノω＼{space}{space}{space}ヽ::::::::::::::::::ヽ
+Send, +{Enter}
+Send, {space}{space}{space}{space}ヽ:::::::::::::::/{space}{space}{space}{space}{space}/:::::::::{space}ヽ{space}{space}{space}{space}{space})::::::::::::::::ゝ
+Send, +{Enter}
+Send, {space}{space}{space}{space}ノ:::::::::::::::|{space}{space}{space}|{space}~--~-~{space}|{space}{space}{space}|~~~~--/
 Send, {Enter}
 return
