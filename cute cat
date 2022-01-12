@@ -1,0 +1,25 @@
+#Copy and paste in ur script.
+#Reload the script.
+#Open notepad or (anything you can type in) and press Ctrl and 1.
+#-----------------------------------------------------------------------
+
+^1::
+Send, {space}{space}{space}{space}{space}{space}{space}{space}{space}{space}Λ{space}_{space}Λ
+Send, +{Enter}
+Send, {space}{space}{space}{space}{space}{space}{space}(’{space}{space}⦁{space}ω{space}⦁{space}`)
+Send, +{Enter}
+Send, {space}{space}〔:::{space}(::::Λ{space}::/::::::〕
+Send, +{Enter}
+Send, {space}{space}{space}{space}{space}{space}{space}|::::::::/:::::::::::/
+Send, +{Enter}
+Send, {space}{space}{space}{space}{space}{space}{space}〉:::/::::::::::〈
+Send, +{Enter}
+Send, {space}{space}{space}{space}{space}{space}{space}|::/:::::::::::::::::|
+Send, +{Enter}
+Send, {space}{space}{space}{space}ﾉ::::::::::::::::::::::|
+Send, +{Enter}
+Send, ノ::::::::::::::::::::::::ゝ
+Send, +{Enter}
+Send, {space}{space}{space}{space}{space}{space}{space}{space}{space}{space}|{space}{space}{space}|{space}{space}{space}{space}|{space}{space}{space}|
+Send, {Enter}
+return
