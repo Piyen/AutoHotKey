@@ -10,3 +10,4 @@ For record and practice.
 7. Click "Edit Script".
 8. Save the File.
 9. Double-click the file/icon in the desktop to run it. 
+10. Have fun.
