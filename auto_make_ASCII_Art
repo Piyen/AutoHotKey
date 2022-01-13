@@ -1,6 +1,7 @@
-1. Search the image you want.
+1. Search the image you want (better if jpg).
 2. Move ur mouse on the image.
-3. Click ctrl+1
+3. Press ctrl and 1.
+※ Before u run this script, check the "Copy image URL" button position when u right click the image, then edit "Send, {up 4}" below.
 -------------------------------------------------
 
 ^1::
