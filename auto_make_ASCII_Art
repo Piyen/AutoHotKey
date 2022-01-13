@@ -1,0 +1,33 @@
+1. Search the image you want.
+2. Move ur mouse on the image.
+3. Click ctrl+1
+-------------------------------------------------
+
+^1::
+Click, Right
+Sleep, 500
+Send, {up 4}
+Send, {Enter}
+Run, http://www.glassgiant.com/ascii/
+Sleep, 10000
+Send, {tab 13}
+Send, {Down 6}
+Send, {tab 2}
+Send, ^v
+Send, {tab 3}
+Send, {Enter}
+Sleep, 10000
+Send, ^a
+Send, ^c
+Sleep, 500
+Send, !{F4}
+Run, notepad.exe
+Sleep, 500
+Send, ^v
+Send, #{up}
+Send, ^{-}
+Sleep, 500
+Send, ^{-}
+Send, ^{home}
+
+return
